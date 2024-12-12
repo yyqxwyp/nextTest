@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { ABeeZee, ADLaM_Display, Comforter, Geist, Geist_Mono } from "next/font/google";
+import { Comforter, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
 

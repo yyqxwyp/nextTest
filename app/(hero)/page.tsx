@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import React from 'react'
 import homesrc from '@/public/home.jpeg'
 import HeroPage from '../components/hero'

@@ -10,7 +10,6 @@ export default function Header() {
     { path: "/two", name: "two" },
     { path: "/three", name: "three" },
   ];
-  const accessLink = ['/', '/one', '/two', '/three']
 
   return (
     <div className="absolute w-full z-10">
