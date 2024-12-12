@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 }
 export default function TwoPage() {
   return (
-    <HeroPage imgUrl={twosrc} altText='第二' content='第二' />
+    <HeroPage imgUrl={twosrc} altText='第二' content='我是更改之后的' />
 
   )
 }
